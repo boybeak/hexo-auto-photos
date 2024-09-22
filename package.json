@@ -1,8 +1,26 @@
 {
     "name": "hexo-auto-photos",
     "version": "1.0.0",
+    "description": "A Hexo plugin that extracts images from posts and automatically populates the 'photos' field.",
     "main": "index.js",
+    "scripts": {},
+    "keywords": [
+      "hexo",
+      "plugin",
+      "photos",
+      "markdown",
+      "image"
+    ],
+    "author": "boybeak",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/boybeak/hexo-auto-photos.git"
+    },
+    "engines": {
+      "node": ">=12.0.0"
+    },
     "dependencies": {
-        "hexo": "*"
+      "hexo": "^6.0.0"
     }
-}
+  }  
