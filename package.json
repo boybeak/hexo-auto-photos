@@ -5,22 +5,22 @@
     "main": "index.js",
     "scripts": {},
     "keywords": [
-      "hexo",
-      "plugin",
-      "photos",
-      "markdown",
-      "image"
+        "hexo",
+        "plugin",
+        "photos",
+        "markdown",
+        "image"
     ],
     "author": "boybeak",
     "license": "MIT",
     "repository": {
-      "type": "git",
-      "url": "https://github.com/boybeak/hexo-auto-photos.git"
+        "type": "git",
+        "url": "git+https://github.com/boybeak/hexo-auto-photos.git"
     },
     "engines": {
-      "node": ">=12.0.0"
+        "node": ">=12.0.0"
     },
     "dependencies": {
-      "hexo": "^6.0.0"
+        "hexo": "^6.0.0"
     }
-  }  
+}
